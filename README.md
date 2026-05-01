@@ -1,4 +1,4 @@
-# 🌸 KM Pinki Dubey — Portfolio Website
+# 🌸 Km Pinki Dubey — Portfolio Website
 
 A personal developer portfolio website showcasing my skills, 
 projects, and professional experience as a PHP Web Developer.
@@ -9,7 +9,7 @@ projects, and professional experience as a PHP Web Developer.
 
 ## 👩‍💻 About Me
 
-**KM Pinki Dubey** — Web Developer with 3+ years of experience  
+**Km Pinki Dubey** — Web Developer with 3+ years of experience  
 at Parken Solution Pvt Ltd (2022–2025), building and maintaining  
 web applications across diverse industries.
 
